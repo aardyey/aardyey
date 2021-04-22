@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aardyey
-- 👀 I’m interested in ... fashion and law
-- 🌱 I’m currently ... a grade 11 student 
-- 📫 How to reach me ... ig: aardyey 
+- 👀 I’m interested in ... 
+- 🌱 I’m currently ... 
+- 📫 How to reach me ... 
 
 <!---
 aardyey/aardyey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
